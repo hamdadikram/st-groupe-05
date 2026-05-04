@@ -1,2 +1,25 @@
 # st-groupe-05
 مشروع خاص بالورشة مادة البرمجة 4 ماي 
+# 📝 Todo List Manager
+
+A simple command-line todo list manager built with Python.
+Manage your tasks directly from the terminal with no dependencies required.
+
+## 🚀 Features
+
+- Add tasks with priority levels (High / Medium / Low)
+- View all pending and completed tasks
+- Mark tasks as done
+- Delete tasks
+- Clear all completed tasks
+- Auto-save to a local JSON file
+
+## 📦 Requirements
+
+- Python 3.6+
+- No external libraries needed
+
+## ▶️ Usage
+
+```bash
+python todo_list.py
